@@ -14,8 +14,8 @@ Esquemático do Projeto
 Testes de Funcionalidade
 ===
 
-Situação 1:
+Situação 1 (Ideal):
 https://youtu.be/CD2zg4FsFRg
 
-Situação 2:
+Situação 2 (Real):
 https://youtu.be/T9BvRmuSgtM
