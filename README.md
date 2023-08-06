@@ -1,5 +1,5 @@
 # Desenvolvimento de Tecnologia Assistiva para Dosagem de Medicamentos Líquidos
-Protótipo de Tecnologia Assistiva apresentado como Trabalho de Conclusão de Curso (TCC) ao Instituto Federal da Paraíba (IFPB), como requisito para obtenção do título de Bacharel em Engenharia Elétrica.
+Protótipo de Tecnologia Assistiva apresentado como Trabalho de Conclusão de Curso (TCC) pelo discente Matheus Alexandrino Ferreira ao Instituto Federal da Paraíba (IFPB), como requisito para obtenção do título de Bacharel em Engenharia Elétrica.
 
 Descrição
 ===
