@@ -10,3 +10,12 @@ Esquemático do Projeto
 ===
 
 ![image](https://github.com/Matheus-AFerreira/Tecnologia-Assistiva-para-Contagem-de-Gotas/assets/141564887/675ed783-899a-4c5b-8a1f-e9fe1ca0b31f)
+
+Testes de Funcionalidade
+===
+
+Situação 1:
+https://youtu.be/CD2zg4FsFRg
+
+Situação 2:
+https://youtu.be/T9BvRmuSgtM
